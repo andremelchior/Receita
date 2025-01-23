@@ -1,7 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     background: url(./Assets/bg-image.jpg) no-repeat top center/cover;
 }
 
 img{
     border-radius: 16px;
+}
+
+#page{
+    width: 800px;
+    padding: 24px;
+    border-radius: 24px;
+    margin: 48px auto;
+    background-color: #F0E8C2;
 }
