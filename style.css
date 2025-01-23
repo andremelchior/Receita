@@ -22,7 +22,7 @@ img{
     width: 800px;
     padding: 24px;
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
     background-color: #F0E8C2;
 }
 
@@ -55,5 +55,15 @@ section + section{
 }
 
 ul{
-    padding-left: 24;
+    padding-left: 24px;
+}
+
+footer{
+    color: #573A37;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img{
+    vertical-align: middle;
 }
