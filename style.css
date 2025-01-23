@@ -1,0 +1,7 @@
+body{
+    background: url(./Assets/bg-image.jpg) no-repeat top center/cover;
+}
+
+img{
+    border-radius: 16px;
+}
