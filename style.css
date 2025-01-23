@@ -1,4 +1,6 @@
 *{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -28,9 +30,30 @@ h1{
     line-height: 140%;
     font-size: 40px;
     color: #291B1A;
+    margin-bottom: 4px;
+    line-height: 150%;
+
 }
 
 h2{
     font-size: 24px;
     color: #291B1A;
+    margin-bottom: 4px;
+    line-height: 150%;
+}
+
+main{
+    padding: 24px;
+}
+
+#about p + p {
+    margin-top: 12px;
+}
+
+section + section{
+    margin-top: 24px;
+}
+
+ul{
+    padding-left: 24;
 }
